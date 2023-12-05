@@ -1,0 +1,138 @@
+[
+    { 
+      "id": "1",
+      "img": "https://i.ibb.co/L8Zy8yP/Health.png",
+      "title": "Clean Water for children",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#3498db",
+      "description": "Provide clean and safe drinking water to communities in need around the world.",
+      "price": "50.00"
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/qrC1T1L/Education.png",
+      "title": "Educational Sponsorship",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "30"
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/z69ywgX/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#2ecc71",
+      "description": "Contribute to initiatives that aim to eliminate clothing problems and ensure cloths for vulnerable populations.",
+      "price": "40.00"
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/GkTBZ8D/Food.png",
+      "title": "Food Security Program",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Contribute to initiatives that aim to eliminate hunger and ensure food security for vulnerable populations.",
+      "price": "40.00"
+    },
+    
+
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/L8Zy8yP/Health.png",
+      "title": "Clean Water for children",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#3498db",
+      "description": "Provide clean and safe drinking water to communities in need around the world.",
+      "price": "50.00"
+    },
+    {
+      "id": "6",
+      "img": "https://i.ibb.co/qrC1T1L/Education.png",
+      "title": "Educational Sponsorship",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Support the education of underprivileged children by sponsoring their school fees and supplies.",
+      "price": "30"
+    },
+    {
+      "id": "7",
+      "img": "https://i.ibb.co/z69ywgX/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#2ecc71",
+      "description": "Contribute to initiatives that aim to eliminate clothing problems and ensure cloths for vulnerable populations.",
+      "price": "40.00"
+    },
+    {
+      "id": "8",
+      "img": "https://i.ibb.co/GkTBZ8D/Food.png",
+      "title": "Food Security Program",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Contribute to initiatives that aim to eliminate hunger and ensure food security for vulnerable populations.",
+      "price": "40.00"
+    },
+    {
+      "id": "9",
+      "img": "https://i.ibb.co/L8Zy8yP/Health.png",
+      "title": "Clean Water for children",
+      "category": "Health",
+      "category_bg": "#0052FF",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#3498db",
+      "description": "Provide clean and safe drinking water to communities in need around the world.",
+      "price": "50.00"
+    },
+    {
+      "id": "10",
+      "img": "https://i.ibb.co/qrC1T1L/Education.png",
+      "title": "Educational Sponsorship",
+      "category": "Education",
+      "category_bg": "#FF444A",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "Support the education of underprivileged children by sponsoring their school fees and supplies.",
+      "price": "30"
+    },
+    {
+      "id": "11",
+      "img": "https://i.ibb.co/z69ywgX/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "category_bg": "#79C23F",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#2ecc71",
+      "description": "Contribute to initiatives that aim to eliminate clothing problems and ensure cloths for vulnerable populations.",
+      "price": "40.00"
+    },
+    {
+      "id": "12",
+      "img": "https://i.ibb.co/GkTBZ8D/Food.png",
+      "title": "Food Security Program",
+      "category": "Food",
+      "category_bg": "#F87147",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Contribute to initiatives that aim to eliminate hunger and ensure food security for vulnerable populations.",
+      "price": "40.00"
+    }   
+    
+  ]
+  
